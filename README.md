@@ -56,7 +56,6 @@ I believe the best way to learn programming is to **build, experiment, make mist
 
 </div>
 
----
 
 </td>
 
@@ -80,14 +79,13 @@ I believe the best way to learn programming is to **build, experiment, make mist
 <img src="https://img.shields.io/badge/AI-0ef0f0?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Machine%20Learning-e30b70?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Deep%20Learning-b40be3?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LIBRARIES-#800a0a?style=for-the-badge" />
 
 <br><br>
 
 ### 🛠️ Tools
 
-<img src="https://img.shields.io/badge/Git-C77DFF?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-FF4B4B?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-800a0a?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-800a0c?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-FF8C42?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FFD43B?style=for-the-badge&logo=linux&logoColor=black" />
 
