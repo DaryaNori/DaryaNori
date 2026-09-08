@@ -5,7 +5,7 @@
 ### 💻 Computer Science Student | 🐍 Python Developer | 🤖 AI Enthusiast 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=65
-   0&lines=Welcome+to+my+GitHub!+%F0%9F%92%97;I+love+Python+%F0%9F%90%8D;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Learning+%E2%86%92+Building+%E2%86%92+Sharing+%F0%9F%9A%80" alt="Typing SVG" />
+0&lines=Welcome+to+my+GitHub!+%F0%9F%92%97;I+love+Python+%F0%9F%90%8D;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Learning+%E2%86%92+Building+%E2%86%92+Sharing+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -66,72 +66,44 @@ I believe the best way to learn programming is to **build, experiment, make mist
 </div>
 
 ---
-
 ## 🚀 My Learning Roadmap
 
 <div align="center">
 
-### 🐍 Python
+### 💻 Programming
 
-<table>
-<tr>
-<td align="center">🟨<br><b>Variables</b></td>
-<td align="center">🟧<br><b>Conditions</b></td>
-<td align="center">🟥<br><b>Loops</b></td>
-<td align="center">🩷<br><b>Lists</b></td>
-<td align="center">🟪<br><b>Functions</b></td>
-</tr>
-<tr>
-<td align="center">🟨<br><b>Files</b></td>
-<td align="center">🟧<br><b>OOP</b></td>
-<td align="center">🟥<br><b>NumPy</b></td>
-<td align="center">🩷<br><b>Pandas</b></td>
-<td align="center">🟪<br><b>Matplotlib</b></td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Python-FF4B4B?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-FF8C42?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML-FFD43B?style=for-the-badge&logo=html5&logoColor=black" />
+<img src="https://img.shields.io/badge/CSS-FF6FAE?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-C77DFF?style=for-the-badge&logo=javascript&logoColor=white" />
 
-<br>
+<br><br>
 
-### 📊 Data Analysis
+### 📊 Data & Visualization
 
-<table>
-<tr>
-<td align="center">🟨<br><b>NumPy</b></td>
-<td align="center">🟧<br><b>Pandas</b></td>
-<td align="center">🟥<br><b>Matplotlib</b></td>
-<td align="center">🩷<br><b>Seaborn</b></td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/NumPy-FFD43B?style=for-the-badge&logo=numpy&logoColor=black" />
+<img src="https://img.shields.io/badge/Pandas-FF8C42?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-FF4B4B?style=for-the-badge&logo=matplotlib&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-FF6FAE?style=for-the-badge&logo=python&logoColor=white" />
 
-<br>
+<br><br>
 
-### 🤖 Machine Learning
+### 🤖 Artificial Intelligence
 
-<table>
-<tr>
-<td align="center">🟨<br><b>Data Preparation</b></td>
-<td align="center">🟧<br><b>Features</b></td>
-<td align="center">🟥<br><b>Models</b></td>
-<td align="center">🩷<br><b>Evaluation</b></td>
-<td align="center">🟪<br><b>Projects</b></td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/AI-FF4B4B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine%20Learning-FF8C42?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Deep%20Learning-FFD43B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PyTorch-FF6FAE?style=for-the-badge&logo=pytorch&logoColor=white" />
 
-<br>
+<br><br>
 
-### 🌐 Web Development
+### 🛠️ Tools
 
-<table>
-<tr>
-<td align="center">🟨<br><b>HTML</b></td>
-<td align="center">🟧<br><b>CSS</b></td>
-<td align="center">🟥<br><b>JavaScript</b></td>
-</tr>
-</table>
-
-<br>
-
-✨ **Learning → Building → Improving → Creating** 🚀
+<img src="https://img.shields.io/badge/Git-C77DFF?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-FF4B4B?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-FF8C42?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FFD43B?style=for-the-badge&logo=linux&logoColor=black" />
 
 </div>
 
