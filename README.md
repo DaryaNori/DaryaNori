@@ -87,24 +87,10 @@ I believe the best way to learn programming is to **build, experiment, make mist
 <img src="https://img.shields.io/badge/Git-800a0a?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-7300ff?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-242424?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FFD43B?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/windows-132400?style=for-the-badge&logo=windows&logoColor=black" />
 
 </div>
 
-
-## 📌 Featured Projects
-
-<div align="center">
-
-<!-- Add your favorite repositories here -->
-
-<a href="https://github.com/DaryaNori">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DaryaNori&repo=YOUR_REPOSITORY&theme=radical&hide_border=true" />
-</a>
-
-</div>
-
----
 
 ## 🌱 My Coding Journey
 
