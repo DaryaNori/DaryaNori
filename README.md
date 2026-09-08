@@ -81,7 +81,7 @@ I believe the best way to learn programming is to **build, experiment, make mist
 <img src="https://img.shields.io/badge/AI-0ef0f0?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Machine%20Learning-e30b70?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Deep%20Learning-b40be3?style=for-the-badge" />
-<img src="https://img.shields.io/badge/PyTorch-FF6FAE?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Libraries-#800a0a?style=for-the-badge&logo=pytorch&logoColor=white" />
 
 <br><br>
 
@@ -138,10 +138,11 @@ Every project is another step forward. 💻✨
 </tr>
 </table>
 
----
 
 <div align="center">
+  
 ### 💖 Thanks for visiting my profile!
+
 ⭐ Feel free to explore my repositories!
 
 <br>
