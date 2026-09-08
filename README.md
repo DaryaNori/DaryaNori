@@ -26,7 +26,7 @@ I believe the best way to learn programming is to **build, experiment, make mist
 * 🐍 Learning and building projects with Python
 * 🤖 Exploring Artificial Intelligence & Machine Learning
 * 📊 Working with data and visualization
-* 🌐 Learning Web Development
+* 🌐 Learning Web Development (frontend Development)
 * 💡 Building real-world programming projects
 * 📚 Sharing my programming journey through **Darya Code**
 
@@ -37,32 +37,22 @@ I believe the best way to learn programming is to **build, experiment, make mist
 <div align="center">
 
 ### 💻 Programming Languages
-
 <img src="https://skillicons.dev/icons?i=python,html,css,js" />
-
 <br><br>
 
 ### 📊 Data & AI
-
 <img src="https://skillicons.dev/icons?i=pytorch" />
-
 <br><br>
-
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" />
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
-
 <br><br>
 
 ### 🔧 Tools & Technologies
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-
 <br><br>
-
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
-
 </div>
 
 ---
@@ -71,43 +61,30 @@ I believe the best way to learn programming is to **build, experiment, make mist
 <div align="center">
 
 ### 💻 Programming
-
 <img src="https://img.shields.io/badge/Python-FF4B4B?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-FF8C42?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML-FFD43B?style=for-the-badge&logo=html5&logoColor=black" />
 <img src="https://img.shields.io/badge/CSS-FF6FAE?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-C77DFF?style=for-the-badge&logo=javascript&logoColor=white" />
-
 <br><br>
-
 ### 📊 Data & Visualization
-
 <img src="https://img.shields.io/badge/NumPy-FFD43B?style=for-the-badge&logo=numpy&logoColor=black" />
 <img src="https://img.shields.io/badge/Pandas-FF8C42?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-FF4B4B?style=for-the-badge&logo=matplotlib&logoColor=white" />
 <img src="https://img.shields.io/badge/Seaborn-FF6FAE?style=for-the-badge&logo=python&logoColor=white" />
-
 <br><br>
-
 ### 🤖 Artificial Intelligence
-
 <img src="https://img.shields.io/badge/AI-FF4B4B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Machine%20Learning-FF8C42?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Deep%20Learning-FFD43B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/PyTorch-FF6FAE?style=for-the-badge&logo=pytorch&logoColor=white" />
-
 <br><br>
-
 ### 🛠️ Tools
-
 <img src="https://img.shields.io/badge/Git-C77DFF?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-FF4B4B?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-FF8C42?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FFD43B?style=for-the-badge&logo=linux&logoColor=black" />
-
 </div>
-
-
 ---
 
 ## 📌 Featured Projects
@@ -210,13 +187,8 @@ Every project is another step forward. 💻✨
 ---
 
 <div align="center">
-
 ### 💖 Thanks for visiting my profile!
-
 ⭐ Feel free to explore my repositories!
-
 <br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=120&section=footer" />
-
 </div>
