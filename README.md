@@ -111,7 +111,10 @@ I believe the best way to learn programming is to **build, experiment, make mist
 </div>
 
 
----
+</td>
+
+<td width="50%" valign="top">
+
 
 ## 📌 Featured Projects
 
@@ -141,16 +144,6 @@ I believe the best way to learn programming is to **build, experiment, make mist
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/DaryaNori/DaryaNori/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
-
 ## 🌱 My Coding Journey
 
 <div align="center">
@@ -165,21 +158,6 @@ Every project is another step forward. 💻✨
 
 ---
 
-## 📚 Currently Exploring
-
-<div align="center">
-
-🐍 **Python**
-🤖 **Artificial Intelligence**
-🧠 **Machine Learning**
-📊 **Data Analysis**
-🌐 **Web Development**
-💡 **Software Development**
-
-</div>
-
----
-
 ## 🌊 Darya Code
 
 <div align="center">
@@ -190,25 +168,9 @@ Every project is another step forward. 💻✨
 
 </div>
 
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/DaryaNori">
-<img src="https://img.shields.io/badge/GitHub-DaryaNori-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="YOUR_YOUTUBE_URL">
-<img src="https://img.shields.io/badge/YouTube-Darya%20Code-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
