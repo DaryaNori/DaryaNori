@@ -44,60 +44,41 @@
 
 ### 💻 Programming
 
-<table>
-<tr>
-<td align="center" bgcolor="#FFD43B"><b>🐍 Python</b></td>
-<td align="center" bgcolor="#F89820"><b>⚡ C++</b></td>
-<td align="center" bgcolor="#FF6B6B"><b>🌐 HTML</b></td>
-<td align="center" bgcolor="#FF8FAB"><b>🎨 CSS</b></td>
-<td align="center" bgcolor="#C77DFF"><b>⚡ JavaScript</b></td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Python-FF4B4B?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-FF8C42?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML-FFD43B?style=for-the-badge&logo=html5&logoColor=black" />
+<img src="https://img.shields.io/badge/CSS-FF6FAE?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-C77DFF?style=for-the-badge&logo=javascript&logoColor=white" />
 
-<br>
+<br><br>
 
 ### 📊 Data & Visualization
 
-<table>
-<tr>
-<td align="center" bgcolor="#FFD43B"><b>NumPy</b></td>
-<td align="center" bgcolor="#F89820"><b>Pandas</b></td>
-<td align="center" bgcolor="#FF6B6B"><b>Matplotlib</b></td>
-<td align="center" bgcolor="#FF8FAB"><b>Seaborn</b></td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/NumPy-FFD43B?style=for-the-badge&logo=numpy&logoColor=black" />
+<img src="https://img.shields.io/badge/Pandas-FF8C42?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-FF4B4B?style=for-the-badge&logo=matplotlib&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-FF6FAE?style=for-the-badge&logo=python&logoColor=white" />
 
-<br>
+<br><br>
 
 ### 🤖 Artificial Intelligence
 
-<table>
-<tr>
-<td align="center" bgcolor="#FFD43B"><b>AI</b></td>
-<td align="center" bgcolor="#F89820"><b>Machine Learning</b></td>
-<td align="center" bgcolor="#FF6B6B"><b>Deep Learning</b></td>
-<td align="center" bgcolor="#FF8FAB"><b>PyTorch</b></td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/AI-FF4B4B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine%20Learning-FF8C42?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Deep%20Learning-FFD43B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PyTorch-FF6FAE?style=for-the-badge&logo=pytorch&logoColor=white" />
 
-<br>
+<br><br>
 
 ### 🛠️ Tools
 
-<table>
-<tr>
-<td align="center" bgcolor="#FFD43B"><b>Git</b></td>
-<td align="center" bgcolor="#F89820"><b>GitHub</b></td>
-<td align="center" bgcolor="#FF6B6B"><b>VS Code</b></td>
-<td align="center" bgcolor="#FF8FAB"><b>Linux</b></td>
-</tr>
-</table>
-
-<br>
-
-### 🌱 Learning → Building → Growing 🚀
+<img src="https://img.shields.io/badge/Git-C77DFF?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-FF4B4B?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-FF8C42?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FFD43B?style=for-the-badge&logo=linux&logoColor=black" />
 
 </div>
+
 
 ---
 
