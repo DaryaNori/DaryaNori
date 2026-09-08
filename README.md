@@ -2,9 +2,10 @@
 
 # 👋 Hi, I'm Darya!
 
-### 💻 Computer Science Student | 🐍 Python Developer | 🤖 AI Enthusiast
+### 💻 Computer Science Student | 🐍 Python Developer | 🤖 AI Enthusiast 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!+%F0%9F%92%97;I+love+Python+%F0%9F%90%8D;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Learning+%E2%86%92+Building+%E2%86%92+Sharing+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=65
+   0&lines=Welcome+to+my+GitHub!+%F0%9F%92%97;I+love+Python+%F0%9F%90%8D;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Learning+%E2%86%92+Building+%E2%86%92+Sharing+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -68,32 +69,72 @@ I believe the best way to learn programming is to **build, experiment, make mist
 
 ## 🚀 My Learning Roadmap
 
-```text
-🐍 Python
-   ├── Variables & Data Types
-   ├── Conditions
-   ├── Loops
-   ├── Lists & Dictionaries
-   ├── Functions
-   ├── Files
-   └── OOP
+<div align="center">
 
-📊 Data
-   ├── NumPy
-   ├── Pandas
-   ├── Matplotlib
-   └── Seaborn
+### 🐍 Python
 
-🤖 Artificial Intelligence
-   ├── Machine Learning
-   ├── Data Analysis
-   └── Real-World AI Projects
+<table>
+<tr>
+<td align="center">🟨<br><b>Variables</b></td>
+<td align="center">🟧<br><b>Conditions</b></td>
+<td align="center">🟥<br><b>Loops</b></td>
+<td align="center">🩷<br><b>Lists</b></td>
+<td align="center">🟪<br><b>Functions</b></td>
+</tr>
+<tr>
+<td align="center">🟨<br><b>Files</b></td>
+<td align="center">🟧<br><b>OOP</b></td>
+<td align="center">🟥<br><b>NumPy</b></td>
+<td align="center">🩷<br><b>Pandas</b></td>
+<td align="center">🟪<br><b>Matplotlib</b></td>
+</tr>
+</table>
 
-🌐 Web Development
-   ├── HTML
-   ├── CSS
-   └── JavaScript
-```
+<br>
+
+### 📊 Data Analysis
+
+<table>
+<tr>
+<td align="center">🟨<br><b>NumPy</b></td>
+<td align="center">🟧<br><b>Pandas</b></td>
+<td align="center">🟥<br><b>Matplotlib</b></td>
+<td align="center">🩷<br><b>Seaborn</b></td>
+</tr>
+</table>
+
+<br>
+
+### 🤖 Machine Learning
+
+<table>
+<tr>
+<td align="center">🟨<br><b>Data Preparation</b></td>
+<td align="center">🟧<br><b>Features</b></td>
+<td align="center">🟥<br><b>Models</b></td>
+<td align="center">🩷<br><b>Evaluation</b></td>
+<td align="center">🟪<br><b>Projects</b></td>
+</tr>
+</table>
+
+<br>
+
+### 🌐 Web Development
+
+<table>
+<tr>
+<td align="center">🟨<br><b>HTML</b></td>
+<td align="center">🟧<br><b>CSS</b></td>
+<td align="center">🟥<br><b>JavaScript</b></td>
+</tr>
+</table>
+
+<br>
+
+✨ **Learning → Building → Improving → Creating** 🚀
+
+</div>
+
 
 ---
 
