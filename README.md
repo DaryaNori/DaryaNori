@@ -61,7 +61,7 @@ I believe the best way to learn programming is to **build, experiment, make mist
 
 ### 🔧 Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,Windows" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,windows" />
 
 <br><br>
 
