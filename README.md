@@ -69,6 +69,11 @@ I believe the best way to learn programming is to **build, experiment, make mist
 
 ---
 
+
+</td>
+
+<td width="50%" valign="top">
+  
 ## 🚀 My Learning Roadmap
 
 <div align="center">
@@ -109,11 +114,6 @@ I believe the best way to learn programming is to **build, experiment, make mist
 <img src="https://img.shields.io/badge/Linux-FFD43B?style=for-the-badge&logo=linux&logoColor=black" />
 
 </div>
-
-
-</td>
-
-<td width="50%" valign="top">
 
 
 ## 📌 Featured Projects
