@@ -36,7 +36,7 @@ I believe the best way to learn programming is to **build, experiment, make mist
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -45,10 +45,6 @@ I believe the best way to learn programming is to **build, experiment, make mist
 <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js" />
 
 <br><br>
-
-### 📊 Data & AI
-
-<img src="https://skillicons.dev/icons?i=pytorch" />
 
 <br><br>
 
