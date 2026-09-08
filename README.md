@@ -37,7 +37,7 @@ I believe the best way to learn programming is to **build, experiment, make mist
 
 ### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js" />
 
 <br><br>
 
