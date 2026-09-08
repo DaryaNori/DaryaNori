@@ -177,8 +177,12 @@ Every project is another step forward. 💻✨
 ---
 
 <div align="center">
+  
 ### 💖 Thanks for visiting my profile!
+  
 ⭐ Feel free to explore my repositories!
 <br>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=120&section=footer" />
+  
 </div>
