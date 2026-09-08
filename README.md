@@ -21,7 +21,7 @@
 🤖 Exploring AI & Machine Learning
 📊 Interested in Data Analysis
 💻 Building real-world projects
-
+<br><br>
 ### 🛠️ Skills
 
 <img src="https://img.shields.io/badge/Python-FF4B4B?style=for-the-badge&logo=python&logoColor=white" />
