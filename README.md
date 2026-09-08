@@ -76,7 +76,7 @@ I believe the best way to learn programming is to **build, experiment, make mist
 <img src="https://img.shields.io/badge/Python-cc1f04?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Html-ff540a?style=for-the-badge&logo=html&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-ffde0a?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-C77DFF?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-00ab11?style=for-the-badge&logo=javascript&logoColor=white" />
 
 <br><br>
 
