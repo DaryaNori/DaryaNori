@@ -13,15 +13,15 @@
 <table>
 <tr>
 <td width="50%" valign="top">
+  
+🌸 About Me
 
-## 🌸 About Me
+Hi! I'm Darya, a Computer Science student passionate about programming, Artificial Intelligence, and building real-world projects.
 
-🎓 Computer Science Student
-🐍 Python Developer
-🤖 Exploring AI & Machine Learning
-📊 Interested in Data Analysis
-💻 Building real-world projects
-<br><br>
+I'm currently focusing on Python and expanding my knowledge in AI, Machine Learning, Data Analysis, and Web Development.
+
+I believe the best way to learn programming is to build, experiment, make mistakes, and keep improving. 🚀
+
 ### 🛠️ Skills
 
 <img src="https://img.shields.io/badge/Python-FF4B4B?style=for-the-badge&logo=python&logoColor=white" />
