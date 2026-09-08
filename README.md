@@ -104,7 +104,6 @@ Every project is another step forward. 💻✨
 
 ---
 
-
 ## 🌊 Darya Code
 
 <div align="center">
@@ -122,10 +121,9 @@ Every project is another step forward. 💻✨
 
 <div align="center">
   
-### 💖 Thanks for visiting my profile!
+# 💖 Thanks for visiting my profile!
 
 <br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=120&section=footer" />
 
 </div>
