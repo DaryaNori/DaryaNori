@@ -11,6 +11,10 @@
 
 ---
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ## 🌸 About Me
 
 Hi! I'm Darya, a Computer Science student passionate about programming, Artificial Intelligence, and building real-world projects.
@@ -57,11 +61,9 @@ I believe the best way to learn programming is to **build, experiment, make mist
 
 ### 🔧 Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,Windows" />
 
 <br><br>
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
 
 </div>
 
