@@ -69,32 +69,45 @@ I believe the best way to learn programming is to **build, experiment, make mist
 
 ## 🚀 My Learning Roadmap
 
-```text
-🐍 Python
-   ├── Variables & Data Types
-   ├── Conditions
-   ├── Loops
-   ├── Lists & Dictionaries
-   ├── Functions
-   ├── Files
-   └── OOP
+<div align="center">
 
-📊 Data
-   ├── NumPy
-   ├── Pandas
-   ├── Matplotlib
-   └── Seaborn
+### 💻 Programming
 
-🤖 Artificial Intelligence
-   ├── Machine Learning
-   ├── Data Analysis
-   └── Real-World AI Projects
+<img src="https://img.shields.io/badge/Python-FF4B4B?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-FF8C42?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML-FFD43B?style=for-the-badge&logo=html5&logoColor=black" />
+<img src="https://img.shields.io/badge/CSS-FF6FAE?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-C77DFF?style=for-the-badge&logo=javascript&logoColor=white" />
 
-🌐 Web Development
-   ├── HTML
-   ├── CSS
-   └── JavaScript
-```
+<br><br>
+
+### 📊 Data & Visualization
+
+<img src="https://img.shields.io/badge/NumPy-FFD43B?style=for-the-badge&logo=numpy&logoColor=black" />
+<img src="https://img.shields.io/badge/Pandas-FF8C42?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-FF4B4B?style=for-the-badge&logo=matplotlib&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-FF6FAE?style=for-the-badge&logo=python&logoColor=white" />
+
+<br><br>
+
+### 🤖 Artificial Intelligence
+
+<img src="https://img.shields.io/badge/AI-FF4B4B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine%20Learning-FF8C42?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Deep%20Learning-FFD43B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PyTorch-FF6FAE?style=for-the-badge&logo=pytorch&logoColor=white" />
+
+<br><br>
+
+### 🛠️ Tools
+
+<img src="https://img.shields.io/badge/Git-C77DFF?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-FF4B4B?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-FF8C42?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FFD43B?style=for-the-badge&logo=linux&logoColor=black" />
+
+</div>
+
 
 ---
 
