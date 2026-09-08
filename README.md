@@ -1,14 +1,11 @@
 <div align="center">
 
-# 👋 Hi, I'm Darya!
+👋 Hi, I'm Darya!
+💻 Computer Science Student | 🐍 Python Developer | 🤖 AI Enthusiast
 
-### 💻 Computer Science Student | 🐍 Python Developer | 🤖 AI Enthusiast 
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=65
-0&lines=Welcome+to+my+GitHub!+%F0%9F%92%97;I+love+Python+%F0%9F%90%8D;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Learning+%E2%86%92+Building+%E2%86%92+Sharing+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!+%F0%9F%92%97;I+love+Python+%F0%9F%90%8D;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Learning+%E2%86%92+Building+%E2%86%92+Sharing+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
-
 ---
 
 ## 🌸 About Me
@@ -66,13 +63,6 @@ I believe the best way to learn programming is to **build, experiment, make mist
 <img src="https://img.shields.io/badge/HTML-FFD43B?style=for-the-badge&logo=html5&logoColor=black" />
 <img src="https://img.shields.io/badge/CSS-FF6FAE?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-C77DFF?style=for-the-badge&logo=javascript&logoColor=white" />
-<br><br>
-
-### 📊 Data & Visualization
-<img src="https://img.shields.io/badge/NumPy-FFD43B?style=for-the-badge&logo=numpy&logoColor=black" />
-<img src="https://img.shields.io/badge/Pandas-FF8C42?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-FF4B4B?style=for-the-badge&logo=matplotlib&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-FF6FAE?style=for-the-badge&logo=python&logoColor=white" />
 <br><br>
 
 ### 🤖 Artificial Intelligence
@@ -156,33 +146,14 @@ Every project is another step forward. 💻✨
 
 ---
 
-## 🌐 Connect With Me
-
 <div align="center">
 
-<a href="https://github.com/DaryaNori">
-<img src="https://img.shields.io/badge/GitHub-DaryaNori-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+💖 Thanks for visiting my profile!
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="YOUR_YOUTUBE_URL">
-<img src="https://img.shields.io/badge/YouTube-Darya%20Code-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-  
-### 💖 Thanks for visiting my profile!
-  
 ⭐ Feel free to explore my repositories!
+
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=120&section=footer" />
-  
+
 </div>
