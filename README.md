@@ -76,15 +76,6 @@ I believe the best way to learn programming is to **build, experiment, make mist
 
 <br><br>
 
-### 📊 Data & Visualization
-
-<img src="https://img.shields.io/badge/NumPy-FFD43B?style=for-the-badge&logo=numpy&logoColor=black" />
-<img src="https://img.shields.io/badge/Pandas-FF8C42?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-FF4B4B?style=for-the-badge&logo=matplotlib&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-FF6FAE?style=for-the-badge&logo=python&logoColor=white" />
-
-<br><br>
-
 ### 🤖 Artificial Intelligence
 
 <img src="https://img.shields.io/badge/AI-FF4B4B?style=for-the-badge" />
