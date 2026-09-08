@@ -25,7 +25,7 @@ I believe the best way to learn programming is to **build, experiment, make mist
 
 ---
 
-## 🐍 What I'm Working On
+##  What I'm Working On
 
 * 🐍 Learning and building projects with Python
 * 🤖 Exploring Artificial Intelligence & Machine Learning
@@ -123,8 +123,6 @@ Every project is another step forward. 💻✨
 <div align="center">
   
 ### 💖 Thanks for visiting my profile!
-
-⭐ Feel free to explore my repositories!
 
 <br>
 
