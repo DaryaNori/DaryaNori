@@ -38,30 +38,66 @@
 
 <td width="50%" valign="top">
 
-## 🚀 Currently Learning
+## 🚀 My Learning Roadmap
 
-🟨 **Python**
-🟧 **Data Analysis**
-🟥 **Machine Learning**
-🩷 **Artificial Intelligence**
-🟪 **Web Development**
+<div align="center">
 
-### 📊 Libraries
+### 💻 Programming
 
-<img src="https://img.shields.io/badge/NumPy-FFD43B?style=flat-square&logo=numpy&logoColor=black" />
-<img src="https://img.shields.io/badge/Pandas-FF8C42?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-FF4B4B?style=flat-square&logo=matplotlib&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-FF6FAE?style=flat-square&logo=pytorch&logoColor=white" />
-
-### 🔧 Tools
-
-<img src="https://img.shields.io/badge/Git-C77DFF?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-FF4B4B?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-FF8C42?style=flat-square&logo=visualstudiocode&logoColor=white" />
-
-</td>
+<table>
+<tr>
+<td align="center" bgcolor="#FFD43B"><b>🐍 Python</b></td>
+<td align="center" bgcolor="#F89820"><b>⚡ C++</b></td>
+<td align="center" bgcolor="#FF6B6B"><b>🌐 HTML</b></td>
+<td align="center" bgcolor="#FF8FAB"><b>🎨 CSS</b></td>
+<td align="center" bgcolor="#C77DFF"><b>⚡ JavaScript</b></td>
 </tr>
 </table>
+
+<br>
+
+### 📊 Data & Visualization
+
+<table>
+<tr>
+<td align="center" bgcolor="#FFD43B"><b>NumPy</b></td>
+<td align="center" bgcolor="#F89820"><b>Pandas</b></td>
+<td align="center" bgcolor="#FF6B6B"><b>Matplotlib</b></td>
+<td align="center" bgcolor="#FF8FAB"><b>Seaborn</b></td>
+</tr>
+</table>
+
+<br>
+
+### 🤖 Artificial Intelligence
+
+<table>
+<tr>
+<td align="center" bgcolor="#FFD43B"><b>AI</b></td>
+<td align="center" bgcolor="#F89820"><b>Machine Learning</b></td>
+<td align="center" bgcolor="#FF6B6B"><b>Deep Learning</b></td>
+<td align="center" bgcolor="#FF8FAB"><b>PyTorch</b></td>
+</tr>
+</table>
+
+<br>
+
+### 🛠️ Tools
+
+<table>
+<tr>
+<td align="center" bgcolor="#FFD43B"><b>Git</b></td>
+<td align="center" bgcolor="#F89820"><b>GitHub</b></td>
+<td align="center" bgcolor="#FF6B6B"><b>VS Code</b></td>
+<td align="center" bgcolor="#FF8FAB"><b>Linux</b></td>
+</tr>
+</table>
+
+<br>
+
+### 🌱 Learning → Building → Growing 🚀
+
+</div>
 
 ---
 
